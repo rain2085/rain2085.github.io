@@ -1,4 +1,12 @@
-img{
-    width:200px;
-    height:300px;
+body{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+div{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
 }
