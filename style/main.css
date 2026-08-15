@@ -1,11 +1,11 @@
-body{
+.contact{
     align-items: center;
     display: flex;
     flex-direction: column;
     height: 100%;
 }
 
-div{
+.contact-btn{
     display: flex;
     flex-direction: row;
     gap: 10px;
