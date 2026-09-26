@@ -10,3 +10,14 @@
     flex-direction: row;
     gap: 10px;
 }
+
+a{
+    color: #050505;
+}
+
+.menu{
+    padding-right: 20px;
+    padding-top: 20px;
+    position: sticky;
+    width: 20%;
+}

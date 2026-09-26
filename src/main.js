@@ -10,7 +10,7 @@ function getContent(date){
   }
 }
 
-const contactInfo = getContent("2026-8-15 22:38:00");
+const contactInfo = getContent("2026-10-1 00:00:00");
 
 document.addEventListener("DOMContentLoaded",()=>{
     ele = document.querySelector("#contactInfo");
